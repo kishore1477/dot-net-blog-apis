@@ -47,3 +47,4 @@ E:\learn .NET\BlogApi\obj\Debug\net9.0\refint\BlogApi.dll
 E:\learn .NET\BlogApi\obj\Debug\net9.0\BlogApi.pdb
 E:\learn .NET\BlogApi\obj\Debug\net9.0\BlogApi.genruntimeconfig.cache
 E:\learn .NET\BlogApi\obj\Debug\net9.0\ref\BlogApi.dll
+E:\learn .NET\BlogApi\obj\Debug\net9.0\BlogApi.sourcelink.json
